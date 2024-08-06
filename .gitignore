@@ -11,6 +11,8 @@ __pycache__/
 /happy-whale-and-dolphin
 
 *.zip
+*.pkl
+*.csv
 
 # Distribution / packaging
 .Python
